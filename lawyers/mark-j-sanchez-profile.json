@@ -1,0 +1,75 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Attorney",
+  "name": "Mark J. Sanchez",
+  "jobTitle": "Award-Winning Attorney",
+  "worksFor": {
+    "@type": "Organization",
+    "name": "Just Work Comp Law",
+    "url": "https://justworkcomplaw.com/"
+  },
+  "description": "Mark J. Sanchez is an award-winning attorney at Just Work Comp Law, specializing in Utah workers' compensation since 2007. He is a dedicated advocate for injured Spanish-speaking clients, ensuring they receive a voice in the legal system through his fluent Spanish communication skills and the support of his bilingual assistants. Mr. Sanchez is admitted to practice in Utah and before the United States District Court. His educational background includes a Bachelor's degree from Utah Valley University and a Juris Doctor (JD) from the University of La Verne. He is a proud member of the Utah Association for Justice and the Minority Bar. When not engaged in courtroom victories, Mr. Sanchez enjoys leisure time with his family. To discuss a workers' compensation case, particularly for Spanish-speaking clients, Mark J. Sanchez can be contacted through Just Work Comp Law.",
+  "telephone": "801-746-0290",
+  "knowsAbout": [
+    "Workers Compensation Law",
+    "Spanish-speaking client advocacy",
+    "Workers' Compensation Law",
+    "Workers Compensation Appeals",
+    "Workplace Injury Claims",
+    "Occupational Illness Claims",
+    "Medical Expense Recovery",
+    "Lost Wage Recovery"
+  ],
+  "hasCredential": [
+    {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Utah Bar Admission"
+    },
+    {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "United States District Court Admission"
+    }
+  ],
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Salt Lake City"
+    },
+    {
+      "@type": "City",
+      "name": "Ogden"
+    },
+    {
+      "@type": "City",
+      "name": "St George"
+    },
+    {
+      "@type": "AdministrativeArea",
+      "name": "Utah County"
+    },
+    {
+      "@type": "City",
+      "name": "Boise Idaho"
+    },
+    {
+      "@type": "State",
+      "name": "Utah"
+    },
+    {
+      "@type": "State",
+      "name": "Idaho"
+    },
+    {
+      "@type": "State",
+      "name": "Colorado"
+    },
+    {
+      "@type": "State",
+      "name": "Hawaii"
+    },
+    {
+      "@type": "State",
+      "name": "Texas"
+    }
+  ]
+}

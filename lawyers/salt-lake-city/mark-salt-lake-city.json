@@ -1,0 +1,29 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Attorney",
+  "name": "Mark",
+  "jobTitle": "Award-Winning Attorney",
+  "worksFor": {
+    "@type": "Organization",
+    "name": "Just Work Comp Law",
+    "url": "https://justworkcomplaw.com/"
+  },
+  "description": "Mark is an award-winning attorney at Just Work Comp Law. His expertise in worker's compensation law began in 2018 as a paralegal with the firm, where he excelled in case management, client relationships, and attention to case detail. In 2024, Mark completed his law degree and became an attorney with Just Work Comp Law, fully dedicated to maximizing his clients' cases. He holds a Bachelor's degree from Brigham Young University and a Juris Doctor from Nova Southeastern University. Mark is admitted to practice law in Utah. He is a member of the Utah Association for Justice, the Government/Administrative Law Bar, the Salt Lake County Bar, and the Utah Association Criminal Defense Lawyers. Outside of work, Mark enjoys paddle boarding and spending time with his family. To retain Mark for your workers' compensation case, contact Just Work Comp Law at 801-746-0290.",
+  "image": "https://justworkcomplaw.com/wp-content/uploads/2018/09/markds.jpg",
+  "telephone": "801-746-0290",
+  "knowsAbout": [
+    "Workers Compensation",
+    "Case Management",
+    "Client Relationships",
+    "Workers' Compensation Law",
+    "Workers Compensation Appeals",
+    "Workplace Injury Claims",
+    "Occupational Illness Claims",
+    "Medical Expense Recovery",
+    "Lost Wage Recovery"
+  ],
+  "areaServed": {
+    "@type": "City",
+    "name": "Salt Lake City"
+  }
+}
