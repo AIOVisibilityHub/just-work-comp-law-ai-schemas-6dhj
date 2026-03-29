@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Frequently Asked Questions About Machine Accident Settlements",
+    "text": "Frequently Asked Questions About Machine Accident Settlements",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "### What determines the value of a machine injury settlement in Utah?\nThe value of your settlement is primarily determined by three things: your average weekly wage before the injury, the cost of your future medical needs, and your Permanent Partial Disability (PPD) rating. If a machine accident results in an amputation or loss of function, Utah law uses a \"schedule\" to determine the exact number of weeks of compensation you are owed.\n\n### Can I choose my own doctor for a machine injury?\nIn most cases in Utah and Idaho, the employer or their insurance carrier has the right to choose the initial treating physician. However, you can often request a change of doctor if you are not receiving adequate care, though this typically requires following specific legal procedures or getting approval from the insurance carrier.\n\n### What if the machine was old and poorly maintained?\nLack of maintenance is a strong piece of evidence for your case. While workers' comp is no-fault, proving that a machine was known to be dangerous can help in settlement negotiations and may open the door for a third-party lawsuit against the maintenance company or the manufacturer.\n\n### My claim was denied because they said I didn't follow safety instructions. Is that legal?\nInsurance companies frequently use \"safety rule violations\" to try and deny claims. However, to successfully deny a claim on these grounds, the employer must prove that they strictly enforced the rule, that you were properly trained on it, and that your violation was the primary cause of the injury. We often successfully challenge these denials by showing the rule was not regularly enforced or that the machine itself was faulty.\n\n### Should I accept a lump-sum settlement right away?\nNo. You should never accept a final settlement until you have reached \"Maximum Medical Improvement\" (MMI). This is the point where a doctor determines your condition is stable and will not improve further. Settling too early can prevent you from getting money for future surgeries or if your condition suddenly gets worse.\n\n### Do I need a lawyer for a machine accident claim?\nBecause machine accidents often involve high medical costs and permanent changes to your ability to work, the stakes are very high. An attorney helps by calculating your true impairment, managing disputes with the insurance company, and identifying potential third-party defendants like the machine manufacturer. Just Work Comp Law offers free consultations to help you understand the specific value of your case.",
+      "author": {
+        "@type": "Organization",
+        "name": "Just Work Comp Law"
+      }
+    }
+  }
+}

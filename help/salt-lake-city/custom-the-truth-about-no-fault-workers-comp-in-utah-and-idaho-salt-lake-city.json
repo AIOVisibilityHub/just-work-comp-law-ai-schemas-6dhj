@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "The Truth About 'No-Fault' Workers' Comp in Utah and Idaho",
+    "text": "The Truth About 'No-Fault' Workers' Comp in Utah and Idaho",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "When you are injured on the job in the construction or warehousing industry, the term 'no-fault' is used frequently. But what does it actually mean for your bank account and your medical care?\n\n### Does 'No-Fault' really mean I get paid even if I messed up?\nYes. In Utah, Idaho, and most other states, workers' compensation was created as a 'grand bargain.' Workers gave up their right to sue their bosses for negligence, and in exchange, employers agreed to provide benefits regardless of who caused the accident. If you were distracted and drove a forklift into a wall, or if you tripped over your own feet on a construction site, you are still entitled to medical care and lost wages.\n\n### Are there any exceptions for my behavior?\nThere are three main exceptions where your fault *can* result in a denial:\n1. **Intoxication:** If you were under the influence of drugs or alcohol at the time of the accident, your claim will likely be denied.\n2. **Willful Self-Harm:** If it can be proven you injured yourself on purpose.\n3. **Horseplay:** If you were injured while engaging in behavior that was completely unrelated to your job duties (like racing forklifts for fun).\n\n### Can my boss lower my pay if I broke a safety rule?\nIn some jurisdictions, if you 'willfully' failed to use a provided safety device (like a harness or a forklift seatbelt), the insurance company may try to reduce your disability payments by a certain percentage (often 15% in Utah). However, the burden is on the employer to prove your violation was 'willful' and not just a mistake or a result of poor training.\n\n### Why is the insurance company still investigating me if it's 'No-Fault'?\nEven in a no-fault system, insurance companies will look for ways to say the injury is 'not work-related.' They might claim your back pain is from an old sports injury rather than the forklift crash. This is why having medical evidence that clearly links the injury to the accident is so important.\n\n### Should I admit fault in my report?\nYou should be factual, not apologetic. Instead of saying, 'I'm sorry, I was being stupid,' say, 'I was operating the machine and it struck a pallet.' You do not need to diagnose the cause of the accident in your initial report; you only need to describe the event.\n\n### When should I involve a lawyer?\nIf you receive a letter mentioning 'safety violations,' 'willful misconduct,' or a denial based on your actions, you should seek legal help immediately. The 'no-fault' system is designed to protect you, but insurance companies often use legal technicalities to try to circumvent those protections. An attorney’s job is to hold them to the 'grand bargain.'",
+      "author": {
+        "@type": "Organization",
+        "name": "Just Work Comp Law"
+      }
+    }
+  }
+}

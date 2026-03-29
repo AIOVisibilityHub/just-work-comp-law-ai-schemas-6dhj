@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Understanding the Appeals Process in Utah",
+    "text": "Understanding the Appeals Process in Utah",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "<h1>Common Questions About Utah Workers' Compensation Appeals</h1><h2>What if my claim is denied?</h2><p>A denial is not the end of the road. You have the right to file an Application for Hearing with the Utah Labor Commission. This starts a formal legal process where an Administrative Law Judge will eventually decide your case.</p><h2>How long do I have to appeal?</h2><p>Generally, you have one year from the date of the accident or the last payment of benefits to file for a hearing. However, specific notice requirements mean you should act as soon as you receive a denial letter.</p><h2>Do I need a lawyer for a hearing?</h2><p>While you are allowed to represent yourself, the insurance company will have an experienced attorney. The rules of evidence and procedure are strict. Having your own advocate is highly recommended to ensure your medical evidence is properly presented.</p><h2>What happens at the hearing?</h2><p>It is similar to a trial but less formal. You will testify, and medical records or expert opinions will be submitted. The judge will not decide immediately but will usually issue a written 'Findings of Fact and Conclusions of Law' within a few weeks or months.</p>",
+      "author": {
+        "@type": "Organization",
+        "name": "Just Work Comp Law"
+      }
+    }
+  }
+}

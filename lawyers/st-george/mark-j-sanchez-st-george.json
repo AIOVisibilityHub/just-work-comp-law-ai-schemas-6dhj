@@ -2,7 +2,7 @@
   "@context": "https://schema.org",
   "@type": "Attorney",
   "name": "Mark J. Sanchez",
-  "jobTitle": "Award-Winning Attorney",
+  "jobTitle": "Attorney",
   "worksFor": {
     "@type": "Organization",
     "name": "Just Work Comp Law",
@@ -23,11 +23,7 @@
   "hasCredential": [
     {
       "@type": "EducationalOccupationalCredential",
-      "credentialCategory": "Utah Bar Admission"
-    },
-    {
-      "@type": "EducationalOccupationalCredential",
-      "credentialCategory": "United States District Court Admission"
+      "credentialCategory": "Bar #Utah Bar Admission"
     }
   ],
   "areaServed": {

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Neck Surgery and Workers' Comp: Your Rights to Care and Compensation",
+    "text": "Neck Surgery and Workers' Comp: Your Rights to Care and Compensation",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Neck surgery is a major life event, and when it happens because of a workplace accident, the legal implications are just as significant. Many workers are afraid that if they need surgery, they will lose their jobs or be left with permanent pain. Here is what you need to know about the intersection of neck surgery and workers' compensation.\n\n### Does workers' comp have to pay for my neck surgery?\nIf your authorized doctor recommends surgery and the insurance company’s medical consultant agrees that it is \"medically necessary\" and caused by the work injury, they must pay 100% of the cost. This includes the surgeon's fees, hospital stays, anesthesia, and post-operative physical therapy.\n\n### What if the insurance company's doctor says I don't need surgery?\nThis is common. The insurance company often uses an \"Independent Medical Examination\" (IME) to argue that you only need \"conservative care\" like more physical therapy. If this happens, your lawyer will file an Application for Hearing. We will use your treating surgeon's opinions to fight the insurance company's hired doctor in front of a judge.\n\n### How does surgery change my settlement?\nSurgery almost always increases your settlement amount. This is because surgery results in a higher \"Impairment Rating\" once you are healed. For example, a cervical fusion (where vertebrae are joined together) results in a permanent loss of range of motion. Under Utah law, this loss of motion is \"bought\" by the insurance company via a Permanent Partial Disability payment.\n\n### Can I choose my own surgeon?\nIn many cases, yes. While the employer might choose the initial clinic, you often have a right to a specialist referral. At Just Work Comp Law, we help our clients find highly-rated spinal surgeons in Salt Lake City, Boise, and St. George who are experienced in dealing with the complex paperwork requirements of the workers' comp system.\n\n### What if I cannot return to work after surgery?\nIf your neck surgery leaves you with restrictions that prevent you from doing your old job (like a \"no overhead reaching\" restriction), you may be entitled to vocational rehabilitation or, in severe cases, Permanent Total Disability benefits. We work with vocational experts to prove that your neck injury has limited your ability to earn a living, ensuring you are compensated for your future lost earnings.",
+      "author": {
+        "@type": "Organization",
+        "name": "Just Work Comp Law"
+      }
+    }
+  }
+}

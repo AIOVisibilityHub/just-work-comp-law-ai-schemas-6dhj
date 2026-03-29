@@ -1,0 +1,134 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "How to Appeal a Denied Work-Related Illness Claim: A Step-by-Step Guide",
+  "description": "How to Appeal a Denied Work-Related Illness Claim: A Step-by-Step Guide - St George",
+  "step": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "name": "Step 1",
+      "text": "Receiving a denial letter from your workers' compensation insurance can be devastating, especially when you are dealing with a serious illness. However, in Utah and Idaho, a denial is rarely the final word. It is simply the start of a legal process designed to ensure workers get a fair hearing. Here is exactly what you need to do to fight back."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "name": "Step 2",
+      "text": "### Step 1: Understand the Reason for Denial"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "name": "Step 3",
+      "text": "Read the denial letter carefully. Insurance companies must state why they are rejecting the claim. Common reasons include:"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "name": "Step 4",
+      "text": "* **Lack of Timely Notice:** They claim you didn't report the illness fast enough."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 5,
+      "name": "Step 5",
+      "text": "* **Lack of Medical Causation:** They claim your illness isn't actually work-related."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 6,
+      "name": "Step 6",
+      "text": "* **Pre-existing Condition:** They claim the problem existed before you started the job."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 7,
+      "name": "Step 7",
+      "text": "* **Independent Medical Exam (IME) Findings:** A doctor they hired says you are fine or that the illness is unrelated to work."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 8,
+      "name": "Step 8",
+      "text": "### Step 2: File a Formal Appeal"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 9,
+      "name": "Step 9",
+      "text": "You cannot simply call the insurance adjuster and ask them to change their mind. You must file a formal application for a hearing."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 10,
+      "name": "Step 10",
+      "text": "* In **Utah**, you file an 'Application for Hearing' with the Labor Commission's Adjudication Division."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 11,
+      "name": "Step 11",
+      "text": "* In **Idaho**, you file a 'Complaint' with the Industrial Commission."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 12,
+      "name": "Step 12",
+      "text": "This starts a formal legal track that includes discovery (exchanging evidence) and eventually a trial before an administrative law judge."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 13,
+      "name": "Step 13",
+      "text": "### Step 3: Gather Specific Evidence"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 14,
+      "name": "Step 14",
+      "text": "To overturn a denial, you need more than just your own word. You need documentation that directly addresses the reason for denial."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 15,
+      "name": "Step 15",
+      "text": "* **Medical Records:** Request every record from every doctor you’ve seen for this illness."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 16,
+      "name": "Step 16",
+      "text": "* **Expert Opinions:** You may need to pay for a 'rebuttal' medical exam from a doctor who isn't on the insurance company's payroll."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 17,
+      "name": "Step 17",
+      "text": "* **Workplace Evidence:** Gather SDS (Safety Data Sheets) for chemicals, photos of unsafe conditions, or logs of your daily work activities."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 18,
+      "name": "Step 18",
+      "text": "### Step 4: Prepare for the Hearing"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 19,
+      "name": "Step 19",
+      "text": "The hearing functions like a mini-trial. You will be sworn in to testify, and your attorney will present evidence and cross-examine witnesses. The judge will not make a decision that day; they will usually take several weeks to review the evidence and issue a written ruling."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 20,
+      "name": "Step 20",
+      "text": "### Why You Shouldn't Do This Alone"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 21,
+      "name": "Step 21",
+      "text": "The appeals process is governed by strict rules of evidence and procedure. If you miss a filing deadline or fail to properly 'authenticate' a medical record, the judge may be legally unable to consider it, even if it proves you are right. A specialized workers' comp lawyer understands how to build a case that meets the specific legal standards required to overturn a denial. Most firms, including ours, work on a contingency basis, so you don't have to worry about how to pay for this legal help while you are out of work."
+    }
+  ]
+}

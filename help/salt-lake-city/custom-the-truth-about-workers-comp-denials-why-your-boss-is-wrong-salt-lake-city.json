@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "The Truth About Workers' Comp Denials: Why Your Boss Is Wrong",
+    "text": "The Truth About Workers' Comp Denials: Why Your Boss Is Wrong",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "### What is the most common reason for a warehouse claim denial?\\nIn Salt Lake City and Boise, the most common reason is 'pre-existing conditions.' The insurance company will dig through your medical records from ten years ago to find any mention of back pain or shoulder issues. They then claim your current work injury is just a 'flare-up' of an old problem. To defeat this, we use medical experts to prove that the warehouse accident caused a 'new' injury or a 'material aggravation' of the old one.\\n\\n### My boss says I'm an independent contractor, not an employee. Is he right?\\nConstruction and warehouse employers often misclassify workers to avoid paying workers' comp insurance. In Utah and Idaho, the law looks at 'control.' If the company tells you when to show up, provides your tools, and directs your daily tasks, you are likely an employee regardless of what your contract says. We have successfully fought many 'independent contractor' denials to get workers the benefits they deserve.\\n\\n### Can I be fired for filing a workers' comp claim?\\nIt is illegal for an employer to fire you solely for filing a claim or seeking benefits. This is known as 'Retaliatory Discharge.' If your boss threatens to fire you, document the conversation and contact an attorney immediately. While Utah is an 'at-will' employment state, there is a strong public policy exception for workers' compensation.\\n\\n### How much does it cost to hire a workers' comp lawyer?\\nAt Just Work Comp Law, we work on a 'contingency fee' basis. This means you pay $0 upfront. We only get paid if we win your case or secure a settlement for you. The fees are typically a percentage of the back-pay or the final settlement, and in many cases, a lawyer pays for themselves by finding additional benefits—like 'Permanent Partial Disability'—that the insurance company was hiding from you.",
+      "author": {
+        "@type": "Organization",
+        "name": "Just Work Comp Law"
+      }
+    }
+  }
+}

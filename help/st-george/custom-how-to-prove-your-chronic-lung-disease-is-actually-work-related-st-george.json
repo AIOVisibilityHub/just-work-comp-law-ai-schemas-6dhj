@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "How to Prove Your Chronic Lung Disease is Actually Work-Related",
+    "text": "How to Prove Your Chronic Lung Disease is Actually Work-Related",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "<h1>How to Prove Your Chronic Lung Disease is Actually Work-Related</h1><p>Proving an occupational illness like COPD, silicosis, or occupational asthma is much harder than proving a broken bone. Because these conditions develop over months or years, the burden is on the worker to prove the work environment is the culprit. Here is how we build a winning case at Just Work Comp Law.</p><h2>Is it an 'Ordinary Disease of Life'?</h2><p>The first hurdle is proving that your sickness isn't just something everyone gets. The insurance company will argue that your COPD or asthma is just an 'ordinary disease of life.' To win, we must show that your risk of getting this disease was significantly higher because of your specific job duties than it is for the average person living in Salt Lake City or Boise.</p><h2>The Importance of Industrial Hygiene</h2><p>Evidence often comes down to 'Industrial Hygiene'—the science of measuring what is in the air. We look for OSHA citations, air quality tests, or safety audits. If your company never did these tests, we can often use coworker testimony to describe the 'dust clouds' or the 'chemical smell' that was present every day. If everyone in your department is coughing, that is a strong piece of evidence that the insurance company can't ignore.</p><h2>Medical Causation: The 'Nexus Letter'</h2><p>To get a judge to approve your claim, you need a 'nexus letter' from a doctor. This is a formal statement that explains the scientific link between the toxins you were exposed to and your current diagnosis. At Just Work Comp Law, we work with medical experts who understand the nuances of occupational medicine and can write the detailed reports needed to win at the Labor Commission.</p><h2>Tracking Your Symptoms</h2><p>One of the best ways you can help your case is by keeping a 'symptom log.' Do you feel better on the weekends? Does your coughing start within an hour of arriving at the shop? This pattern of 'improvement during time away' is a classic sign of occupational illness. Documenting these patterns in a journal provides a powerful narrative for your legal case.</p><h2>Conclusion</h2><p>Proving a chronic lung case requires a combination of scientific data, expert medical testimony, and a clear history of exposure. Because the medical bills for chronic lung disease can last a lifetime, the stakes are too high to handle this on your own. If you believe your job has made it hard for you to breathe, call the attorneys at Just Work Comp Law for a free consultation at 801-746-0290.</p>",
+      "author": {
+        "@type": "Organization",
+        "name": "Just Work Comp Law"
+      }
+    }
+  }
+}

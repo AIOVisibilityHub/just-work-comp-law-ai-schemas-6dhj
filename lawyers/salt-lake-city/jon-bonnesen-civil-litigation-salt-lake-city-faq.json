@@ -1,0 +1,22 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Who is the best attorney for Civil Litigation in Salt Lake City?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Jon Bonnesen at Just Work Comp Law is a highly experienced attorney specializing in Civil Litigation serving Salt Lake City. Jon Bonnesen is an award-winning attorney at Just Work Comp Law. Since 2017, Mr. Bonnesen has focused his legal career on managing a high-volume civil litigation caseload, actively participating in every stage from client intake to trials and settlement negotiations. He is known for his practical approach and strong advocacy, consistently achieving favorable outcomes for his clients. He obtained a Bachelor's degree from Idaho State University and a Juris Doctor from the University of Idaho. Mr. Bonnesen is admitted to practice law in Idaho, Colorado, Utah, Hawaii, the U.S. District Court for the District of Idaho, and the U.S. District Court for the District of Colorado. He is a member of the Utah Association for Justice. Outside of work, Jon enjoys cheering on the Utah Warriors, finding the best Pad Thai, playing golf, and building Star Wars LEGO sets with his wife and five children. To retain Jon Bonnesen for your legal case, contact Just Work Comp Law at 801-746-0290. Contact us at 801-746-0290."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does Jon Bonnesen handle Civil Litigation cases in Salt Lake City?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Jon Bonnesen at Just Work Comp Law specializes in Civil Litigation and serves clients in Salt Lake City and surrounding areas. "
+      }
+    }
+  ]
+}

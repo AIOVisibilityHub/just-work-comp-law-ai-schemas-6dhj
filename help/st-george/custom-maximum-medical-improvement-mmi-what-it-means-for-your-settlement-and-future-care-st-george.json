@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Maximum Medical Improvement (MMI): What It Means for Your Settlement and Future Care",
+    "text": "Maximum Medical Improvement (MMI): What It Means for Your Settlement and Future Care",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "### What is Maximum Medical Improvement (MMI)?\nMaximum Medical Improvement, or MMI, is a critical milestone in any workers' compensation case. It is the point at which a doctor determines that your condition has stabilized and is not expected to improve significantly with further medical treatment. It does not necessarily mean you are 'cured' or back to 100%; it simply means you have reached a plateau.\n\n### Why does MMI matter?\nWhen you reach MMI, your Temporary Total Disability (TTD) checks—the weekly payments you receive while out of work—will usually stop. At this point, the doctor will evaluate whether you have any permanent physical impairment. If you do, you will be assigned a 'Permanent Partial Disability' (PPD) rating, which is a percentage that represents your permanent loss of function.\n\n### How is my settlement calculated?\nIn Utah, each 'percentage point' of a disability rating corresponds to a specific number of weeks of pay at a state-mandated rate. For example, if you have a 10% whole-person impairment rating, you are entitled to a specific dollar amount based on your pre-injury wages. Insurance companies often try to pressure workers into taking a small settlement at the MMI stage.\n\n### Can I still get medical care after MMI?\nYes. Reaching MMI and receiving a disability rating does not necessarily close your claim for medical benefits. If you need ongoing 'maintenance care' like physical therapy, medication, or future surgeries, those can often stay open. However, insurance companies may try to offer you a 'full and final' settlement that closes your medical benefits forever in exchange for a larger lump sum.\n\n### Should I accept a settlement offer?\nNever sign a settlement release without a lawyer's review. Once you settle 'full and final,' you can never ask for more money or medical care, even if your condition worsens years later. An attorney at Just Work Comp Law can help you determine if the settlement offer accurately reflects your future medical needs and the true extent of your permanent impairment. We ensure that you aren't leaving money on the table when the insurance company tries to close your file.",
+      "author": {
+        "@type": "Organization",
+        "name": "Just Work Comp Law"
+      }
+    }
+  }
+}
