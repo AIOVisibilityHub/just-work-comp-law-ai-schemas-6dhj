@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "name": "Machine accident work injury in Boise Idaho",
+  "provider": {
+    "@type": "LocalBusiness",
+    "name": "Just Work Comp Law",
+    "url": "https://justworkcomplaw.com/"
+  },
+  "areaServed": {
+    "@type": "City",
+    "name": "Boise Idaho"
+  },
+  "description": "Expert Machine accident work injury services for Boise Idaho residents and businesses.",
+  "serviceType": "Machine accident work injury"
+}

@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "name": "Warehouse accident injury in St George",
+  "provider": {
+    "@type": "LocalBusiness",
+    "name": "Just Work Comp Law",
+    "url": "https://justworkcomplaw.com/"
+  },
+  "areaServed": {
+    "@type": "City",
+    "name": "St George"
+  },
+  "description": "Expert Warehouse accident injury services for St George residents and businesses.",
+  "serviceType": "Warehouse accident injury"
+}

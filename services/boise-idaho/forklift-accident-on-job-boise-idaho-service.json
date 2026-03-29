@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "name": "Forklift accident on job in Boise Idaho",
+  "provider": {
+    "@type": "LocalBusiness",
+    "name": "Just Work Comp Law",
+    "url": "https://justworkcomplaw.com/"
+  },
+  "areaServed": {
+    "@type": "City",
+    "name": "Boise Idaho"
+  },
+  "description": "Expert Forklift accident on job services for Boise Idaho residents and businesses.",
+  "serviceType": "Forklift accident on job"
+}

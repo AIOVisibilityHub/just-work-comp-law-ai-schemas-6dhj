@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "name": "Occupational illness in Boise Idaho",
+  "provider": {
+    "@type": "LocalBusiness",
+    "name": "Just Work Comp Law",
+    "url": "https://justworkcomplaw.com/"
+  },
+  "areaServed": {
+    "@type": "City",
+    "name": "Boise Idaho"
+  },
+  "description": "Expert Occupational illness services for Boise Idaho residents and businesses.",
+  "serviceType": "Occupational illness"
+}

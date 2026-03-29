@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "name": "On-the-job accident in Salt Lake City",
+  "provider": {
+    "@type": "LocalBusiness",
+    "name": "Just Work Comp Law",
+    "url": "https://justworkcomplaw.com/"
+  },
+  "areaServed": {
+    "@type": "City",
+    "name": "Salt Lake City"
+  },
+  "description": "Expert On-the-job accident services for Salt Lake City residents and businesses.",
+  "serviceType": "On-the-job accident"
+}

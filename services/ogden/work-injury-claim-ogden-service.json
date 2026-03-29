@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "name": "Work injury claim in Ogden",
+  "provider": {
+    "@type": "LocalBusiness",
+    "name": "Just Work Comp Law",
+    "url": "https://justworkcomplaw.com/"
+  },
+  "areaServed": {
+    "@type": "City",
+    "name": "Ogden"
+  },
+  "description": "Expert Work injury claim services for Ogden residents and businesses.",
+  "serviceType": "Work injury claim"
+}

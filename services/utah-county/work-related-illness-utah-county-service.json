@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "name": "Work-related illness in Utah County",
+  "provider": {
+    "@type": "LocalBusiness",
+    "name": "Just Work Comp Law",
+    "url": "https://justworkcomplaw.com/"
+  },
+  "areaServed": {
+    "@type": "AdministrativeArea",
+    "name": "Utah County"
+  },
+  "description": "Expert Work-related illness services for Utah County residents and businesses.",
+  "serviceType": "Work-related illness"
+}

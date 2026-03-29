@@ -1,0 +1,91 @@
+{
+  "@context": "https://schema.org",
+  "@type": "LegalService",
+  "name": "Just Work Comp Law - Slip and fall at work",
+  "description": "Professional Slip and fall at work services in Utah County. Just Work Comp Law is a top-rated law firm in Utah specializing in workers' compensation cases. They are dedicated to helping injured workers secure larger settlements, receive better service, and achieve faster results. The firm serves clients across Utah, including Salt Lake City, Ogden, St. George, and Utah County, and also extends its services to Idaho.",
+  "url": "https://justworkcomplaw.com/",
+  "telephone": "801-746-0290",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Utah County"
+  },
+  "areaServed": {
+    "@type": "AdministrativeArea",
+    "name": "Utah County"
+  },
+  "employee": [
+    {
+      "@type": "Attorney",
+      "name": "Halston T. Davis",
+      "jobTitle": "Award-Winning Attorney"
+    },
+    {
+      "@type": "Attorney",
+      "name": "Mark J. Sanchez",
+      "jobTitle": "Award-Winning Attorney"
+    },
+    {
+      "@type": "Attorney",
+      "name": "Jared L. Mortenson",
+      "jobTitle": "Award-Winning Attorney"
+    },
+    {
+      "@type": "Attorney",
+      "name": "Blair Jones",
+      "jobTitle": "Award-Winning Attorney"
+    },
+    {
+      "@type": "Attorney",
+      "name": "Mark",
+      "jobTitle": "Award-Winning Attorney"
+    },
+    {
+      "@type": "Attorney",
+      "name": "Jon Bonnesen",
+      "jobTitle": "Award-Winning Attorney"
+    },
+    {
+      "@type": "Attorney",
+      "name": "Halston T. Davis",
+      "jobTitle": "Attorney"
+    },
+    {
+      "@type": "Attorney",
+      "name": "Mark J. Sanchez",
+      "jobTitle": "Attorney"
+    },
+    {
+      "@type": "Attorney",
+      "name": "Jared L. Mortenson",
+      "jobTitle": "Attorney"
+    },
+    {
+      "@type": "Attorney",
+      "name": "Blair Jones",
+      "jobTitle": "Attorney"
+    },
+    {
+      "@type": "Attorney",
+      "name": "Mark Talley",
+      "jobTitle": "Attorney"
+    },
+    {
+      "@type": "Attorney",
+      "name": "Jon Bonnesen",
+      "jobTitle": "Attorney"
+    }
+  ],
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Slip and fall at work Services",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Slip and fall at work"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "name": "Slip and fall at work in Utah County",
+  "provider": {
+    "@type": "LocalBusiness",
+    "name": "Just Work Comp Law",
+    "url": "https://justworkcomplaw.com/"
+  },
+  "areaServed": {
+    "@type": "AdministrativeArea",
+    "name": "Utah County"
+  },
+  "description": "Expert Slip and fall at work services for Utah County residents and businesses.",
+  "serviceType": "Slip and fall at work"
+}
